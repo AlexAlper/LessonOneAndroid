@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Моя погода</string>
-    <string name="test_info">Здесь будет информация о погоде</string>
+    <string name="test_info">Погода в Ростове-на-Дону</string>
+    <string name="temperature_info">+26</string>
+    <string name="temperature_tile">Температура</string>
+    <string name="weather_info">Ясно, без осадков</string>
+    <string name="weather_title">Погода</string>
 </resources>
